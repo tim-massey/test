@@ -1,0 +1,7 @@
+targets:
+  development:
+    strategy: 'deploy_sh'
+  staging:
+    strategy: 'deploy_sh'
+  production:
+    strategy: 'deploy_sh'
